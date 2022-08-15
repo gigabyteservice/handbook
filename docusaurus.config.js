@@ -5,7 +5,7 @@ module.exports = {
   title: "Jitsi Meet",
   tagline: "State-of-the-art video conferencing you can self-host.",
   url: "https://jitsi.github.io",
-  baseUrl: "/handbook/",
+  baseUrl: "/",
   organizationName: "jitsi",
   projectName: "handbook",
   favicon: "img/favicon.png",
